@@ -35,6 +35,13 @@ Tabla creada automáticamente:
 Archivo generado:
 > backend/database/clientes.db
 
+### Frontend 
+Entrar a la carpeta frontend
+> cd backend
+
+Instalar Dependencias
+> npm install
+
 ## Ejecutar Backend
 Dentro de la carpeta backend:
 
