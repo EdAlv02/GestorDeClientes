@@ -65,7 +65,8 @@ export const updateCliente = async (
     res: Response
 ) => {
     try {
-        const { id, nombre_completo, email, telefono, empresa } = req.body;
+        const { id } = req.params;
+        const { nombre_completo, email, telefono, empresa } = req.body;
 
         const db = await initDb();
 
