@@ -17,6 +17,10 @@ Aplicación CRUD para la gestión de clientes desarrollada con:
 * > npm -v
 
 ## Instalacion
+##Descargar o Clonar Repositorio
+> git clone https://github.com/EdAlv02/GestorDeClientes.git
+> 
+> cd GestorDeClientes
 ### Backend
 Entrar a la carpeta backend
 > cd backend
@@ -37,7 +41,7 @@ Archivo generado:
 
 ### Frontend 
 Entrar a la carpeta frontend
-> cd backend
+> cd frontend
 
 Instalar Dependencias
 > npm install
